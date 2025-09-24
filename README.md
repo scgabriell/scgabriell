@@ -47,8 +47,8 @@
 - Monitoramento de pipelines de testes e geração de relatórios
 
 ## 📊 Estatísticas GitHub
-![Gabriel's Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=dark&hide_border=true)
+![Gabriel's Stats](https://github-readme-stats.vercel.app/api?username=scgabriell&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scgabriell&layout=compact&theme=dark&hide_border=true)
 
 ## 🎓 Formação e Certificações
 - **Ciência da Computação** - Universidade São Judas Tadeu (2023)
