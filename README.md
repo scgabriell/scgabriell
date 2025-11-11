@@ -2,9 +2,9 @@
 ### Analista de Dados | QA | Testes Automatizados | São Paulo, SP
 
 ## 🚀 Sobre mim
-- 💼 Analista de Testes/QA Jr na Contmatic Phoenix (2023-2025)
+- 💼 Analista de Testes/QA na Contmatic Phoenix (2023-2025)
 - 🎓 Formado em Ciência da Computação pela Universidade São Judas Tadeu
-- 📊 Cursando Bootcamp de Análise de Dados na TripleTen (300h)
+- 📊 Finalizado Bootcamp de Análise de Dados na TripleTen (300h)
 - 🔍 Especialista em testes automatizados e manuais
 - 🐍 Desenvolvedor Python com foco em análise de dados
 - 📫 Contato: gabrielsantos1302@gmail.com
